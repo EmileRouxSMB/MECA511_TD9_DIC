@@ -1,0 +1,13 @@
+
+*.pyc
+result.dic
+disp/
+grid/
+marker/
+result/
+*.ipynb_checkpoints
+__pycache__/
+*.tif
+*.png
+*.jpg
+
